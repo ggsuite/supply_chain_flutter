@@ -1,3 +1,0 @@
-dependency_overrides:
-  supply_chain:
-    path: ../supply_chain
