@@ -1,5 +1,5 @@
 // @license
-// Copyright (c) 2019 - 2024 ggsuite. All Rights Reserved.
+// Copyright (c) ggsuite. All Rights Reserved.
 //
 // Use of this source code is governed by terms that can be
 // found in the LICENSE file in the root of this package.
@@ -71,7 +71,7 @@ void main() {
   late int combineCalls;
 
   setUp(() {
-    Scope.testRestIdCounter();
+    Scope.testResetIdCounter();
     Node.testResetIdCounter();
 
     // A real scm: production is driven by the ScmTickDriver, i.e. once
