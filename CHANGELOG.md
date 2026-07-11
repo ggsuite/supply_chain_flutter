@@ -1,6 +1,6 @@
 # Changelog
 
-## [Unreleased]
+## [1.0.1] - 2026-07-11
 
 ### Added
 
@@ -21,4 +21,4 @@
 - Work on AbSpaceWidget
 - Initial implementation
 
-[Unreleased]: https://github.com/ggsuite/supply_chain_flutter/compare/1.0.0...HEAD
+[1.0.1]: https://github.com/ggsuite/supply_chain_flutter/compare/1.0.0...1.0.1
