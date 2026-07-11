@@ -1,6 +1,12 @@
 # Changelog
 
-## Unreleased
+## [Unreleased]
+
+### Added
+
+- Add missing stuff to get 160 pana points
+
+## 1.0.0 - 2026-07-11
 
 ### Added
 
@@ -13,3 +19,6 @@
 ### Changed
 
 - Work on AbSpaceWidget
+- Initial implementation
+
+[Unreleased]: https://github.com/ggsuite/supply_chain_flutter/compare/1.0.0...HEAD
