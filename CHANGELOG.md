@@ -6,6 +6,10 @@
 
 - Add missing stuff to get 160 pana points
 
+### Changed
+
+- First publishing using gg
+
 ## 1.0.0 - 2026-07-11
 
 ### Added
