@@ -8,4 +8,5 @@ coverage
 build
 *.vm.json
 .DS_Store
-pubspec_overrides.yaml
+.gg/*
+!.gg/gg.json
