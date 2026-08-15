@@ -1,12 +1,17 @@
 # Changelog
 
-## [Unreleased]
+## 1.1.0 - 2026-08-15
 
 ### Changed
 
 - First publishing using gg
 
-## [1.0.1] - 2026-07-11
+### Fixed
+
+- Cleanup copy right headers. Update to dart 3.13. Auto fixes.
+- Cleanup copy right headers. Update to dart 3.13. Auto fixes. Setup quick-check pipeline.
+
+## 1.0.1 - 2026-07-11
 
 ### Added
 
@@ -26,6 +31,3 @@
 
 - Work on AbSpaceWidget
 - Initial implementation
-
-[Unreleased]: https://github.com/ggsuite/supply_chain_flutter/compare/1.0.1...HEAD
-[1.0.1]: https://github.com/ggsuite/supply_chain_flutter/compare/1.0.0...1.0.1

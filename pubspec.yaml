@@ -1,16 +1,16 @@
 name: supply_chain_flutter
 description: Flutter widgets connecting the supply_chain ecosystem to the UI.
-version: 1.0.0
+version: 1.1.0
 repository: https://github.com/ggsuite/supply_chain_flutter
 
 environment:
-  sdk: ">=3.12.2 <4.0.0"
-  flutter: ">=3.44.4"
+  sdk: ">=3.13.0 <4.0.0"
+  flutter: ">=3.47.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  supply_chain: ^5.4.1
+  supply_chain: ^5.5.0
 
 dev_dependencies:
   flutter_lints: ^6.0.0
