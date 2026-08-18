@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+### Fixed
+
+- Fix analyzer error
+
 ## 1.1.0 - 2026-08-15
 
 ### Changed
