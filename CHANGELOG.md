@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Changed
+
+- Use ggwsm in pipelines
+
 ### Fixed
 
 - Fix analyzer error
