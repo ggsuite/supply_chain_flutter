@@ -1,5 +1,15 @@
 # Changelog
 
+## Unreleased
+
+### Changed
+
+- Use ggwsm in pipelines
+
+### Fixed
+
+- Fix analyzer error
+
 ## 1.1.0 - 2026-08-15
 
 ### Changed
