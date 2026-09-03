@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+### Changed
+
+- Drop the test dependency override, gg_golden 3.3.0 no longer needs it
+
 ## 1.2.0 - 2026-09-03
 
 ### Changed
