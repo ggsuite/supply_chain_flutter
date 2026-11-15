@@ -204,10 +204,10 @@ packages:
     dependency: transitive
     description:
       name: gg_capture_print
-      sha256: fd793824121435fe128619c99bcf4a6fac9398188dcc7dd3def6cfe02d2327f9
+      sha256: "3c35399877ccc15f8ea2e768064b1db847a4f71c303708ea1cd52d8934bc0417"
       url: "https://pub.dev"
     source: hosted
-    version: "1.2.0"
+    version: "1.2.1"
   gg_console_colors:
     dependency: transitive
     description:
@@ -252,10 +252,10 @@ packages:
     dependency: "direct dev"
     description:
       name: gg_is_github
-      sha256: "6106ea81ecdc94b8c25ada406c361aec4be3b3a08a834766f52c3583f8b91c86"
+      sha256: "0c54bb83e0d5538f1959bb557eaf229f5ce69c4e9b070bdd233e933e9fff0d66"
       url: "https://pub.dev"
     source: hosted
-    version: "1.2.0"
+    version: "1.2.4"
   gg_json:
     dependency: transitive
     description:
@@ -449,10 +449,10 @@ packages:
     dependency: "direct main"
     description:
       name: supply_chain
-      sha256: "20c0997f039555b8b45f86d7a277be7632fa560c1aa604c4e0d3a42a2ee919dc"
+      sha256: "725d98254472d66cc67d6efed0ec7925e8928d4913313db832fdab25631cae20"
       url: "https://pub.dev"
     source: hosted
-    version: "5.6.0"
+    version: "5.7.0"
   term_glyph:
     dependency: transitive
     description:
