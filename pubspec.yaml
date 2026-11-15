@@ -20,7 +20,7 @@ dev_dependencies:
   gg_cache: ^1.2.0
   gg_golden: ^3.3.0
   gg_is_github: ^1.2.0
-  helix: 1.15.1
+  helix: ^1.15.2
   material_ui: ^1.11.0
 workspace:
   - example
