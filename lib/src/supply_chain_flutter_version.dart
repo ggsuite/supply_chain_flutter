@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `supply_chain_flutter` package.
-const String supplyChainFlutterVersion = '1.2.1';
+const String supplyChainFlutterVersion = '1.3.0';
