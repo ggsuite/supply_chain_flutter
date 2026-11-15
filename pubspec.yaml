@@ -4,8 +4,8 @@ version: 1.2.1
 repository: https://github.com/ggsuite/supply_chain_flutter
 
 environment:
-  sdk: ">=3.13.0 <4.0.0"
-  flutter: ">=3.47.0"
+  sdk: ">=3.14.0 <4.0.0"
+  flutter: ">=3.50.0"
 
 dependencies:
   flutter:
@@ -13,14 +13,15 @@ dependencies:
   supply_chain: ^5.6.0
 
 dev_dependencies:
-  dna_ggsuite: ^0.2.0
+  dna_ggsuite: ^2.0.0
   flutter_lints: ^6.0.0
   flutter_test:
     sdk: flutter
   gg_cache: ^1.2.0
   gg_golden: ^3.3.0
   gg_is_github: ^1.2.0
-  helix: ^1.3.1
+  helix: 1.15.1
+  material_ui: ^1.11.0
 workspace:
   - example
 
