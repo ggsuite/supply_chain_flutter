@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  supply_chain: ^5.4.1
+  supply_chain: ^5.7.0
   supply_chain_flutter:
     path: ../
 
